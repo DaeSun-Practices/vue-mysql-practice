@@ -1,0 +1,22 @@
+{
+  "name": "vue-mysql-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fstest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SongDaeSun/vue-mysql-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SongDaeSun/vue-mysql-practice/issues"
+  },
+  "homepage": "https://github.com/SongDaeSun/vue-mysql-practice#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
